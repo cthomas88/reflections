@@ -1,0 +1,28 @@
+Q how did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+A The system showed the exact line of code where there are differences between the two versions of the file. 
+
+Q How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+A Small changes in files and lines of code can be monitored. A previous, working version of a file can be grabbed and used or edited if your current version of the file is no longer working. Other people can access the history of the file and see what changes were made and where and how this affected the programme
+
+Q What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved like Google Docs does?
+
+A You can decide when is a logically sound time to commit a version, rather than a version be automatically saved. Automatic saves don't always make sense, and may take place half way through a line of code which is inconvenient. 
+
+Q Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+A Git may be specifically for coding, and therefore is aware that a lot of programming requires many files to be linked together. 
+
+Q How can you use the commands git log and git diff to view the history of files?
+
+A Git log shows the history of committs and git diff allows you to compare versions
+
+Q How might using version control make you more confident to make changes that could break something?
+
+A If a change causes a bug or breaks the code you can revert back to the previous version that did not have a bug in it. It means valuable code and work is not lost or destroyed and saves a huge amount of time. 
+
+Q Now that you have your workspace set up, what do you want to try using Git for?
+
+A Training for full stack development expertise, managing larger programming projects and working with others on a single project. 
+
