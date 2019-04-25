@@ -13,3 +13,7 @@ A The staging area allows for files to be prepared for a commit, you can make ch
 Q What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 A Branches allow a main master copy of the file to remain, and other branches allow you to change and adapt the file without affecting the main branch. You could make different versions or try new pieces of code all without worrying about affecting the main code.
+
+Q How do the diagrams help you visualize the branch structure?
+
+A It gives a visual representation of what is going on with the differing branches in relation to the master. It also allows you to remember and trace commits that are detached
