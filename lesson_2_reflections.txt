@@ -17,3 +17,11 @@ A Branches allow a main master copy of the file to remain, and other branches al
 Q How do the diagrams help you visualize the branch structure?
 
 A It gives a visual representation of what is going on with the differing branches in relation to the master. It also allows you to remember and trace commits that are detached
+
+Q What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A Merging two branches incoportates two different versions of a file into one, and allows two different people to work on one file. We represent it in the diagram as two branches combining into the master, whilst retaining each branche's commits to give a clear visual on what has happened and where changes were made prior to the merge. 
+
+W What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A Pros of auto merging are time saving and avoid having to trawl through thousands of lines of code. Cons are that machines make mistakes and those mistakes are not always traceable. Pros of manual merging is you are always in control and can completely control what happens and how, cons are that it takes a lot of time and human error still exists.
