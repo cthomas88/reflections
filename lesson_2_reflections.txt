@@ -6,4 +6,4 @@ Q How is the staging area different from the working directory and the repositor
 
 A It is an inbetween place where you can store your changed versions without committing to a commit, it also allows you to place several files in the staging area so that all files can be committed at the same time
 
-Q
+Q What is the next question I wonder?
