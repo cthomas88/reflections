@@ -9,3 +9,7 @@ A It is an inbetween place where you can store your changed versions without com
 Q How can you use the staging area to make sure you have one commit per logical change?
 
 A The staging area allows for files to be prepared for a commit, you can make changes logical changes to the files and add them to the staging area before committing. 
+
+Q What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A Branches allow a main master copy of the file to remain, and other branches allow you to change and adapt the file without affecting the main branch. You could make different versions or try new pieces of code all without worrying about affecting the main code.
