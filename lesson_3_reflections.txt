@@ -13,3 +13,11 @@ A A fork is a copy of someone elses repository, that allows you to keep it on yo
 Q What is the benefit of having a copy of the last known state of the remote stored locally?
 
 A Allows easy edits and updates
+
+Q How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A Sharing whole files via an FTP with another person would allow you to view and edit code from the other person, however it would be very difficult to view the edited code or files, unless a person also provided a text sheet explaining changes. It would be very difficult and inefficient. 
+
+Q When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A Adding changes in a separate branch means being able to edit the programme or file and play with it, without breaking the overall file or losing important work by overwriting it. It allows different versions of the same file to be saved, and linked together, and eventually merged when everyone involved is happy with the changes. Making changes in the master benefits you when there are lots of files or hundreds of pages of work, and following different branches becomes confusing.
